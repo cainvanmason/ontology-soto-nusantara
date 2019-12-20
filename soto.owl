@@ -1,0 +1,2036 @@
+<?xml version="1.0"?>
+<Ontology xmlns="http://www.w3.org/2002/07/owl#"
+     xml:base="http://www.kuliner.id/ontologies/soto"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     ontologyIRI="http://www.kuliner.id/ontologies/soto"
+     versionIRI="http://www.kuliner.id/ontologies/soto/2.0">
+    <Prefix name="" IRI="http://www.kuliner.id/ontologies/soto"/>
+    <Prefix name="owl" IRI="http://www.w3.org/2002/07/owl#"/>
+    <Prefix name="rdf" IRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#"/>
+    <Prefix name="xml" IRI="http://www.w3.org/XML/1998/namespace"/>
+    <Prefix name="xsd" IRI="http://www.w3.org/2001/XMLSchema#"/>
+    <Prefix name="rdfs" IRI="http://www.w3.org/2000/01/rdf-schema#"/>
+    <Declaration>
+        <Class IRI="#OWLClass_08f0ded6_9f4c_47dd_b513_3bcd14132ffa"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#OWLClass_0cecc665_ea53_4d60_af91_1f165283d08d"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#OWLClass_0fd642bc_36cc_4313_86b0_179f9f2d4896"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#OWLClass_10ed5ecf_e3c4_40d6_bdc6_40bc8681b9d4"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#OWLClass_11253dbf_c30e_45a9_9c8e_14ee43cc5177"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#OWLClass_12b22950_94a4_4542_b844_dbb9ef391c32"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#OWLClass_14052763_e26a_490d_a110_54164d2471c3"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#OWLClass_15124cbb_39e8_4963_94fe_fb39d50d0d58"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#OWLClass_1fb7a113_d826_424a_ac39_42a7c2a94318"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#OWLClass_20cafb0f_70a1_46a2_b99b_50d365d2bce0"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#OWLClass_22be1511_69d3_4a62_8a43_a8c86e5a75bf"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#OWLClass_241f970b_ee30_4757_92c1_88965b08a2f2"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#OWLClass_280e0d3a_9b1c_4a49_bff0_9aa685673ee1"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#OWLClass_2a29ae31_6f31_41ae_a272_dba98bbbb3ec"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#OWLClass_2c88e3fa_535c_48c6_88bd_5be535bc814b"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#OWLClass_2e92f3e8_2a3c_4780_bd37_f5cc64fb345b"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#OWLClass_304b4643_6552_44c6_9d0a_1e616822f42a"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#OWLClass_3b339aea_f91e_4f32_a393_ad16237b8d9c"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#OWLClass_3efe066e_66ba_4eb4_a76f_56f1563d8b42"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#OWLClass_4479d709_04d8_4f7a_b29b_20fb91fa8697"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#OWLClass_465e88f2_fccb_4e73_a92a_fbd62c4d8c39"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#OWLClass_48ca2fe4_a12b_46cb_a3db_7297d8b838ad"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#OWLClass_4c7392de_587f_4161_b848_53692626f6f2"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#OWLClass_4d36eb2a_f945_4070_8016_4c04f3fa9a81"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#OWLClass_4d8c52ad_d368_4079_8091_9c3775195827"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#OWLClass_4e8bb83e_78c6_4776_8527_9c85666821e3"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#OWLClass_4fc1c81d_9d58_4adb_98e1_1e1857d6439e"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#OWLClass_52854780_c6a1_499e_8953_40b73d387172"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#OWLClass_5317ef8b_2b81_42a1_aa6c_63bfb71c0c6f"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#OWLClass_534fb793_3322_41b9_bbce_83cfead1bf5f"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#OWLClass_56e81550_15f3_4b8c_b329_85815aa5d8cb"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#OWLClass_5a866f54_d9de_4b9e_a2c8_d012cbf9d1fb"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#OWLClass_5bde76d7_497b_4c9a_9376_ed96320ee7e3"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#OWLClass_5d4d4e61_3ecb_48da_8c07_d9c19983a2ce"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#OWLClass_5f3e2705_dbce_4e5b_b1c0_167b3f6baf95"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#OWLClass_60ddc6fc_37f2_46bb_8c5c_d8bd927d57ac"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#OWLClass_61665181_f639_46e2_bee8_307dadf8d2df"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#OWLClass_63c98325_fbb9_46e9_bbce_5e68eae93186"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#OWLClass_6419e7ac_95a8_4461_afcd_542f1a8b023e"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#OWLClass_64427fc9_3458_4cd2_8539_b227a2edcea7"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#OWLClass_67da374b_4cc2_4a8e_bce8_f444c298c3a2"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#OWLClass_6c0e8f0d_d2de_4542_a374_bd30bf84b630"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#OWLClass_6c44e3c0_7014_4070_8d64_0455eaae9127"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#OWLClass_6d863446_fb0a_47e0_bc73_d9c5b7f5088d"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#OWLClass_703c69a7_6809_4be4_b988_9979de066e57"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#OWLClass_714421bf_8c34_4678_8001_6f43627a0218"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#OWLClass_716b9277_2d00_4635_8906_49a7d6811ede"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#OWLClass_755b8408_c4de_44d6_b3ff_842168ae1c2a"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#OWLClass_761eec5b_1740_4232_9220_51592ed85c0b"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#OWLClass_7aeb5472_247c_45ff_9b64_3e7df73eb620"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#OWLClass_8a88eb01_464a_4ad6_8614_46dc2b853628"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#OWLClass_8acd5bbf_6ece_4c5b_b570_26f9053a835e"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#OWLClass_97264841_bcbb_438f_9da4_aabd0f06247c"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#OWLClass_97df1adb_595b_4e3a_a733_4b719cf3e267"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#OWLClass_9c1bd086_29f6_443c_99f4_1b5cacdecc79"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#OWLClass_9ee7feba_0586_4907_837a_c421caeea89e"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#OWLClass_a0a55052_4391_45d8_901e_5d90dd7c4d79"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#OWLClass_a158e099_ed45_40a7_95b6_ec81f9b65e74"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#OWLClass_a3631ffd_8896_4f88_a331_c1516d1342cf"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#OWLClass_a918c74d_799a_477f_a90f_c8b28da261dd"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#OWLClass_abfc1931_da4a_4d86_95ef_4896d1dc97fd"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#OWLClass_b12f910b_3d6f_4e92_bba5_d259246b7dd1"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#OWLClass_b5716753_4401_4871_8d1f_6862bcdfaa63"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#OWLClass_b6c8e788_dad3_4d18_815b_8d98d7be4e78"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#OWLClass_baae1b8a_871e_4819_a555_27ad084a4050"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#OWLClass_bc05a883_0467_494c_b115_5088c4c0505c"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#OWLClass_c198a602_6900_4bee_b3c6_053722b16db0"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#OWLClass_c22207c8_f06f_448a_97dc_f8ddeeec5809"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#OWLClass_c3d40b7a_cd89_4b46_b371_979ca3ecd899"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#OWLClass_c4ef3345_b8bd_4d71_b4a2_bd81493e6417"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#OWLClass_ca9d9cad_2397_43ca_a893_1d5ce5e1fb1c"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#OWLClass_cef44323_cbad_4b0f_988f_2accb677c678"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#OWLClass_cf160f5d_caf7_4da1_a276_a9a993b18a9f"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#OWLClass_d694377c_47f4_46ae_8161_f3c1661e2e5f"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#OWLClass_d7f9b09a_13eb_43ee_9600_e70fba8a44b7"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#OWLClass_d9ba24f2_13f7_47d3_a493_9758cabf6cf3"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#OWLClass_dd62325b_9e82_4dce_a9a0_a14fb453c6cf"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#OWLClass_e030d5a8_1de0_41cb_b4ff_c213f0a70eb2"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#OWLClass_e0ee3ef8_5af0_4bf6_bdb5_f091199682c7"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#OWLClass_e40319df_8d6d_446d_a5de_f43c1ec86add"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#OWLClass_ebc314cf_72d4_4761_bc02_ebfa7dfe502e"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#OWLClass_f5f1a116_a0ed_466f_93f6_4ce65fdacd71"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#OWLClass_f7063f74_f747_47c5_a3cd_36460d140168"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#OWLClass_fed9e36f_ef6f_4652_a757_3f3d373d8e68"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#OWLClass_feef126b_684a_4404_894f_04de4f5e2b7f"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#OWLObjectProperty_0266a9da_3344_4c0b_943e_2c30b097dd2d"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#OWLObjectProperty_2ff0768a_eaba_4c90_bd0f_b7d01c9773c0"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#OWLObjectProperty_32227873_9448_4b75_bbcd_d652aa1fd941"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#OWLObjectProperty_371d9064_2b2a_4bb1_b2dd_c027846d8c4e"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#OWLObjectProperty_f881c48f_33b9_40a1_9dfe_5ebe4d73f370"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#OWLNamedIndividual_257cf362_19a1_4ea2_b749_b79c2e615f1c"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#OWLNamedIndividual_294a3b04_6d53_41c6_a780_715459bb4b7d"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#OWLNamedIndividual_3f020925_7f06_4484_95f2_16b0c1b7105e"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#OWLNamedIndividual_57825451_1e35_4640_ade8_1f068d9213e9"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#OWLNamedIndividual_ca1ed742_a160_4cc5_a41a_68748c5c972d"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#OWLNamedIndividual_d9da7358_f9dd_4fad_9e94_ec07163d9e8b"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#OWLNamedIndividual_ff5cb38a_3893_443c_ac89_29e6f70c0ef4"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#OWLNamedIndividual_ff74c326_ef67_4488_8a2d_0c2e8ce9efa5"/>
+    </Declaration>
+    <EquivalentClasses>
+        <Class IRI="#OWLClass_3b339aea_f91e_4f32_a393_ad16237b8d9c"/>
+        <ObjectIntersectionOf>
+            <Class IRI="#OWLClass_5317ef8b_2b81_42a1_aa6c_63bfb71c0c6f"/>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="#OWLObjectProperty_371d9064_2b2a_4bb1_b2dd_c027846d8c4e"/>
+                <Class IRI="#OWLClass_08f0ded6_9f4c_47dd_b513_3bcd14132ffa"/>
+            </ObjectSomeValuesFrom>
+        </ObjectIntersectionOf>
+    </EquivalentClasses>
+    <EquivalentClasses>
+        <Class IRI="#OWLClass_761eec5b_1740_4232_9220_51592ed85c0b"/>
+        <ObjectIntersectionOf>
+            <Class IRI="#OWLClass_5317ef8b_2b81_42a1_aa6c_63bfb71c0c6f"/>
+            <ObjectSomeValuesFrom>
+                <ObjectProperty IRI="#OWLObjectProperty_371d9064_2b2a_4bb1_b2dd_c027846d8c4e"/>
+                <Class IRI="#OWLClass_15124cbb_39e8_4963_94fe_fb39d50d0d58"/>
+            </ObjectSomeValuesFrom>
+        </ObjectIntersectionOf>
+    </EquivalentClasses>
+    <EquivalentClasses>
+        <Class IRI="#OWLClass_a0a55052_4391_45d8_901e_5d90dd7c4d79"/>
+        <ObjectOneOf>
+            <NamedIndividual IRI="#OWLNamedIndividual_257cf362_19a1_4ea2_b749_b79c2e615f1c"/>
+            <NamedIndividual IRI="#OWLNamedIndividual_294a3b04_6d53_41c6_a780_715459bb4b7d"/>
+            <NamedIndividual IRI="#OWLNamedIndividual_3f020925_7f06_4484_95f2_16b0c1b7105e"/>
+            <NamedIndividual IRI="#OWLNamedIndividual_57825451_1e35_4640_ade8_1f068d9213e9"/>
+            <NamedIndividual IRI="#OWLNamedIndividual_ca1ed742_a160_4cc5_a41a_68748c5c972d"/>
+            <NamedIndividual IRI="#OWLNamedIndividual_d9da7358_f9dd_4fad_9e94_ec07163d9e8b"/>
+            <NamedIndividual IRI="#OWLNamedIndividual_ff74c326_ef67_4488_8a2d_0c2e8ce9efa5"/>
+        </ObjectOneOf>
+    </EquivalentClasses>
+    <SubClassOf>
+        <Class IRI="#OWLClass_08f0ded6_9f4c_47dd_b513_3bcd14132ffa"/>
+        <Class IRI="#OWLClass_0cecc665_ea53_4d60_af91_1f165283d08d"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OWLClass_0cecc665_ea53_4d60_af91_1f165283d08d"/>
+        <Class IRI="#OWLClass_6419e7ac_95a8_4461_afcd_542f1a8b023e"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OWLClass_0fd642bc_36cc_4313_86b0_179f9f2d4896"/>
+        <Class IRI="#OWLClass_241f970b_ee30_4757_92c1_88965b08a2f2"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OWLClass_10ed5ecf_e3c4_40d6_bdc6_40bc8681b9d4"/>
+        <Class IRI="#OWLClass_48ca2fe4_a12b_46cb_a3db_7297d8b838ad"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OWLClass_11253dbf_c30e_45a9_9c8e_14ee43cc5177"/>
+        <Class IRI="#OWLClass_cf160f5d_caf7_4da1_a276_a9a993b18a9f"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OWLClass_12b22950_94a4_4542_b844_dbb9ef391c32"/>
+        <Class IRI="#OWLClass_10ed5ecf_e3c4_40d6_bdc6_40bc8681b9d4"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OWLClass_14052763_e26a_490d_a110_54164d2471c3"/>
+        <Class IRI="#OWLClass_cef44323_cbad_4b0f_988f_2accb677c678"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OWLClass_14052763_e26a_490d_a110_54164d2471c3"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#OWLObjectProperty_32227873_9448_4b75_bbcd_d652aa1fd941"/>
+            <Class IRI="#OWLClass_3efe066e_66ba_4eb4_a76f_56f1563d8b42"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OWLClass_14052763_e26a_490d_a110_54164d2471c3"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#OWLObjectProperty_32227873_9448_4b75_bbcd_d652aa1fd941"/>
+            <Class IRI="#OWLClass_61665181_f639_46e2_bee8_307dadf8d2df"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OWLClass_14052763_e26a_490d_a110_54164d2471c3"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#OWLObjectProperty_32227873_9448_4b75_bbcd_d652aa1fd941"/>
+            <Class IRI="#OWLClass_63c98325_fbb9_46e9_bbce_5e68eae93186"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OWLClass_14052763_e26a_490d_a110_54164d2471c3"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#OWLObjectProperty_32227873_9448_4b75_bbcd_d652aa1fd941"/>
+            <Class IRI="#OWLClass_67da374b_4cc2_4a8e_bce8_f444c298c3a2"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OWLClass_14052763_e26a_490d_a110_54164d2471c3"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#OWLObjectProperty_32227873_9448_4b75_bbcd_d652aa1fd941"/>
+            <Class IRI="#OWLClass_6c44e3c0_7014_4070_8d64_0455eaae9127"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OWLClass_14052763_e26a_490d_a110_54164d2471c3"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#OWLObjectProperty_32227873_9448_4b75_bbcd_d652aa1fd941"/>
+            <Class IRI="#OWLClass_97264841_bcbb_438f_9da4_aabd0f06247c"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OWLClass_14052763_e26a_490d_a110_54164d2471c3"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#OWLObjectProperty_32227873_9448_4b75_bbcd_d652aa1fd941"/>
+            <Class IRI="#OWLClass_c22207c8_f06f_448a_97dc_f8ddeeec5809"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OWLClass_14052763_e26a_490d_a110_54164d2471c3"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#OWLObjectProperty_32227873_9448_4b75_bbcd_d652aa1fd941"/>
+            <Class IRI="#OWLClass_c3d40b7a_cd89_4b46_b371_979ca3ecd899"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OWLClass_14052763_e26a_490d_a110_54164d2471c3"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#OWLObjectProperty_32227873_9448_4b75_bbcd_d652aa1fd941"/>
+            <Class IRI="#OWLClass_d694377c_47f4_46ae_8161_f3c1661e2e5f"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OWLClass_14052763_e26a_490d_a110_54164d2471c3"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#OWLObjectProperty_32227873_9448_4b75_bbcd_d652aa1fd941"/>
+            <Class IRI="#OWLClass_fed9e36f_ef6f_4652_a757_3f3d373d8e68"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OWLClass_14052763_e26a_490d_a110_54164d2471c3"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#OWLObjectProperty_371d9064_2b2a_4bb1_b2dd_c027846d8c4e"/>
+            <Class IRI="#OWLClass_08f0ded6_9f4c_47dd_b513_3bcd14132ffa"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OWLClass_14052763_e26a_490d_a110_54164d2471c3"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#OWLObjectProperty_371d9064_2b2a_4bb1_b2dd_c027846d8c4e"/>
+            <Class IRI="#OWLClass_714421bf_8c34_4678_8001_6f43627a0218"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OWLClass_14052763_e26a_490d_a110_54164d2471c3"/>
+        <ObjectAllValuesFrom>
+            <ObjectProperty IRI="#OWLObjectProperty_32227873_9448_4b75_bbcd_d652aa1fd941"/>
+            <ObjectUnionOf>
+                <Class IRI="#OWLClass_3efe066e_66ba_4eb4_a76f_56f1563d8b42"/>
+                <Class IRI="#OWLClass_61665181_f639_46e2_bee8_307dadf8d2df"/>
+                <Class IRI="#OWLClass_63c98325_fbb9_46e9_bbce_5e68eae93186"/>
+                <Class IRI="#OWLClass_67da374b_4cc2_4a8e_bce8_f444c298c3a2"/>
+                <Class IRI="#OWLClass_6c44e3c0_7014_4070_8d64_0455eaae9127"/>
+                <Class IRI="#OWLClass_97264841_bcbb_438f_9da4_aabd0f06247c"/>
+                <Class IRI="#OWLClass_c22207c8_f06f_448a_97dc_f8ddeeec5809"/>
+                <Class IRI="#OWLClass_c3d40b7a_cd89_4b46_b371_979ca3ecd899"/>
+                <Class IRI="#OWLClass_d694377c_47f4_46ae_8161_f3c1661e2e5f"/>
+                <Class IRI="#OWLClass_fed9e36f_ef6f_4652_a757_3f3d373d8e68"/>
+            </ObjectUnionOf>
+        </ObjectAllValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OWLClass_15124cbb_39e8_4963_94fe_fb39d50d0d58"/>
+        <Class IRI="#OWLClass_0cecc665_ea53_4d60_af91_1f165283d08d"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OWLClass_20cafb0f_70a1_46a2_b99b_50d365d2bce0"/>
+        <Class IRI="#OWLClass_9c1bd086_29f6_443c_99f4_1b5cacdecc79"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OWLClass_22be1511_69d3_4a62_8a43_a8c86e5a75bf"/>
+        <Class IRI="#OWLClass_f7063f74_f747_47c5_a3cd_36460d140168"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OWLClass_241f970b_ee30_4757_92c1_88965b08a2f2"/>
+        <Class IRI="#OWLClass_1fb7a113_d826_424a_ac39_42a7c2a94318"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OWLClass_280e0d3a_9b1c_4a49_bff0_9aa685673ee1"/>
+        <Class IRI="#OWLClass_1fb7a113_d826_424a_ac39_42a7c2a94318"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OWLClass_2a29ae31_6f31_41ae_a272_dba98bbbb3ec"/>
+        <Class IRI="#OWLClass_f7063f74_f747_47c5_a3cd_36460d140168"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OWLClass_2c88e3fa_535c_48c6_88bd_5be535bc814b"/>
+        <Class IRI="#OWLClass_241f970b_ee30_4757_92c1_88965b08a2f2"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OWLClass_2e92f3e8_2a3c_4780_bd37_f5cc64fb345b"/>
+        <Class IRI="#OWLClass_5d4d4e61_3ecb_48da_8c07_d9c19983a2ce"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OWLClass_304b4643_6552_44c6_9d0a_1e616822f42a"/>
+        <Class IRI="#OWLClass_5d4d4e61_3ecb_48da_8c07_d9c19983a2ce"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OWLClass_3efe066e_66ba_4eb4_a76f_56f1563d8b42"/>
+        <Class IRI="#OWLClass_bc05a883_0467_494c_b115_5088c4c0505c"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OWLClass_4479d709_04d8_4f7a_b29b_20fb91fa8697"/>
+        <Class IRI="#OWLClass_12b22950_94a4_4542_b844_dbb9ef391c32"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OWLClass_465e88f2_fccb_4e73_a92a_fbd62c4d8c39"/>
+        <Class IRI="#OWLClass_bc05a883_0467_494c_b115_5088c4c0505c"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OWLClass_4c7392de_587f_4161_b848_53692626f6f2"/>
+        <Class IRI="#OWLClass_ca9d9cad_2397_43ca_a893_1d5ce5e1fb1c"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OWLClass_4d36eb2a_f945_4070_8016_4c04f3fa9a81"/>
+        <Class IRI="#OWLClass_9c1bd086_29f6_443c_99f4_1b5cacdecc79"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OWLClass_4d8c52ad_d368_4079_8091_9c3775195827"/>
+        <Class IRI="#OWLClass_5d4d4e61_3ecb_48da_8c07_d9c19983a2ce"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OWLClass_4e8bb83e_78c6_4776_8527_9c85666821e3"/>
+        <Class IRI="#OWLClass_10ed5ecf_e3c4_40d6_bdc6_40bc8681b9d4"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OWLClass_4fc1c81d_9d58_4adb_98e1_1e1857d6439e"/>
+        <Class IRI="#OWLClass_465e88f2_fccb_4e73_a92a_fbd62c4d8c39"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OWLClass_52854780_c6a1_499e_8953_40b73d387172"/>
+        <Class IRI="#OWLClass_7aeb5472_247c_45ff_9b64_3e7df73eb620"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OWLClass_534fb793_3322_41b9_bbce_83cfead1bf5f"/>
+        <Class IRI="#OWLClass_0cecc665_ea53_4d60_af91_1f165283d08d"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OWLClass_56e81550_15f3_4b8c_b329_85815aa5d8cb"/>
+        <Class IRI="#OWLClass_241f970b_ee30_4757_92c1_88965b08a2f2"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OWLClass_5a866f54_d9de_4b9e_a2c8_d012cbf9d1fb"/>
+        <Class IRI="#OWLClass_cef44323_cbad_4b0f_988f_2accb677c678"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OWLClass_5a866f54_d9de_4b9e_a2c8_d012cbf9d1fb"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#OWLObjectProperty_32227873_9448_4b75_bbcd_d652aa1fd941"/>
+            <Class IRI="#OWLClass_61665181_f639_46e2_bee8_307dadf8d2df"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OWLClass_5a866f54_d9de_4b9e_a2c8_d012cbf9d1fb"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#OWLObjectProperty_32227873_9448_4b75_bbcd_d652aa1fd941"/>
+            <Class IRI="#OWLClass_67da374b_4cc2_4a8e_bce8_f444c298c3a2"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OWLClass_5a866f54_d9de_4b9e_a2c8_d012cbf9d1fb"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#OWLObjectProperty_32227873_9448_4b75_bbcd_d652aa1fd941"/>
+            <Class IRI="#OWLClass_97264841_bcbb_438f_9da4_aabd0f06247c"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OWLClass_5a866f54_d9de_4b9e_a2c8_d012cbf9d1fb"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#OWLObjectProperty_32227873_9448_4b75_bbcd_d652aa1fd941"/>
+            <Class IRI="#OWLClass_c3d40b7a_cd89_4b46_b371_979ca3ecd899"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OWLClass_5a866f54_d9de_4b9e_a2c8_d012cbf9d1fb"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#OWLObjectProperty_32227873_9448_4b75_bbcd_d652aa1fd941"/>
+            <Class IRI="#OWLClass_d694377c_47f4_46ae_8161_f3c1661e2e5f"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OWLClass_5a866f54_d9de_4b9e_a2c8_d012cbf9d1fb"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#OWLObjectProperty_32227873_9448_4b75_bbcd_d652aa1fd941"/>
+            <Class IRI="#OWLClass_ebc314cf_72d4_4761_bc02_ebfa7dfe502e"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OWLClass_5a866f54_d9de_4b9e_a2c8_d012cbf9d1fb"/>
+        <ObjectAllValuesFrom>
+            <ObjectProperty IRI="#OWLObjectProperty_32227873_9448_4b75_bbcd_d652aa1fd941"/>
+            <ObjectUnionOf>
+                <Class IRI="#OWLClass_61665181_f639_46e2_bee8_307dadf8d2df"/>
+                <Class IRI="#OWLClass_67da374b_4cc2_4a8e_bce8_f444c298c3a2"/>
+                <Class IRI="#OWLClass_97264841_bcbb_438f_9da4_aabd0f06247c"/>
+                <Class IRI="#OWLClass_c3d40b7a_cd89_4b46_b371_979ca3ecd899"/>
+                <Class IRI="#OWLClass_d694377c_47f4_46ae_8161_f3c1661e2e5f"/>
+                <Class IRI="#OWLClass_ebc314cf_72d4_4761_bc02_ebfa7dfe502e"/>
+            </ObjectUnionOf>
+        </ObjectAllValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OWLClass_5a866f54_d9de_4b9e_a2c8_d012cbf9d1fb"/>
+        <ObjectHasValue>
+            <ObjectProperty IRI="#OWLObjectProperty_371d9064_2b2a_4bb1_b2dd_c027846d8c4e"/>
+            <NamedIndividual IRI="#OWLNamedIndividual_ff5cb38a_3893_443c_ac89_29e6f70c0ef4"/>
+        </ObjectHasValue>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OWLClass_5bde76d7_497b_4c9a_9376_ed96320ee7e3"/>
+        <Class IRI="#OWLClass_f7063f74_f747_47c5_a3cd_36460d140168"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OWLClass_5d4d4e61_3ecb_48da_8c07_d9c19983a2ce"/>
+        <Class IRI="#OWLClass_1fb7a113_d826_424a_ac39_42a7c2a94318"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OWLClass_5f3e2705_dbce_4e5b_b1c0_167b3f6baf95"/>
+        <Class IRI="#OWLClass_cef44323_cbad_4b0f_988f_2accb677c678"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OWLClass_5f3e2705_dbce_4e5b_b1c0_167b3f6baf95"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#OWLObjectProperty_32227873_9448_4b75_bbcd_d652aa1fd941"/>
+            <Class IRI="#OWLClass_61665181_f639_46e2_bee8_307dadf8d2df"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OWLClass_5f3e2705_dbce_4e5b_b1c0_167b3f6baf95"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#OWLObjectProperty_32227873_9448_4b75_bbcd_d652aa1fd941"/>
+            <Class IRI="#OWLClass_63c98325_fbb9_46e9_bbce_5e68eae93186"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OWLClass_5f3e2705_dbce_4e5b_b1c0_167b3f6baf95"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#OWLObjectProperty_32227873_9448_4b75_bbcd_d652aa1fd941"/>
+            <Class IRI="#OWLClass_c22207c8_f06f_448a_97dc_f8ddeeec5809"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OWLClass_5f3e2705_dbce_4e5b_b1c0_167b3f6baf95"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#OWLObjectProperty_32227873_9448_4b75_bbcd_d652aa1fd941"/>
+            <Class IRI="#OWLClass_d694377c_47f4_46ae_8161_f3c1661e2e5f"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OWLClass_5f3e2705_dbce_4e5b_b1c0_167b3f6baf95"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#OWLObjectProperty_32227873_9448_4b75_bbcd_d652aa1fd941"/>
+            <Class IRI="#OWLClass_ebc314cf_72d4_4761_bc02_ebfa7dfe502e"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OWLClass_5f3e2705_dbce_4e5b_b1c0_167b3f6baf95"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#OWLObjectProperty_371d9064_2b2a_4bb1_b2dd_c027846d8c4e"/>
+            <Class IRI="#OWLClass_08f0ded6_9f4c_47dd_b513_3bcd14132ffa"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OWLClass_5f3e2705_dbce_4e5b_b1c0_167b3f6baf95"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#OWLObjectProperty_371d9064_2b2a_4bb1_b2dd_c027846d8c4e"/>
+            <Class IRI="#OWLClass_b5716753_4401_4871_8d1f_6862bcdfaa63"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OWLClass_5f3e2705_dbce_4e5b_b1c0_167b3f6baf95"/>
+        <ObjectAllValuesFrom>
+            <ObjectProperty IRI="#OWLObjectProperty_32227873_9448_4b75_bbcd_d652aa1fd941"/>
+            <ObjectUnionOf>
+                <Class IRI="#OWLClass_61665181_f639_46e2_bee8_307dadf8d2df"/>
+                <Class IRI="#OWLClass_63c98325_fbb9_46e9_bbce_5e68eae93186"/>
+                <Class IRI="#OWLClass_c22207c8_f06f_448a_97dc_f8ddeeec5809"/>
+                <Class IRI="#OWLClass_d694377c_47f4_46ae_8161_f3c1661e2e5f"/>
+                <Class IRI="#OWLClass_ebc314cf_72d4_4761_bc02_ebfa7dfe502e"/>
+            </ObjectUnionOf>
+        </ObjectAllValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OWLClass_60ddc6fc_37f2_46bb_8c5c_d8bd927d57ac"/>
+        <Class IRI="#OWLClass_ca9d9cad_2397_43ca_a893_1d5ce5e1fb1c"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OWLClass_61665181_f639_46e2_bee8_307dadf8d2df"/>
+        <Class IRI="#OWLClass_ca9d9cad_2397_43ca_a893_1d5ce5e1fb1c"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OWLClass_63c98325_fbb9_46e9_bbce_5e68eae93186"/>
+        <Class IRI="#OWLClass_bc05a883_0467_494c_b115_5088c4c0505c"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OWLClass_6419e7ac_95a8_4461_afcd_542f1a8b023e"/>
+        <Class IRI="#OWLClass_48ca2fe4_a12b_46cb_a3db_7297d8b838ad"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OWLClass_64427fc9_3458_4cd2_8539_b227a2edcea7"/>
+        <Class IRI="#OWLClass_cef44323_cbad_4b0f_988f_2accb677c678"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OWLClass_64427fc9_3458_4cd2_8539_b227a2edcea7"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#OWLObjectProperty_32227873_9448_4b75_bbcd_d652aa1fd941"/>
+            <Class IRI="#OWLClass_3efe066e_66ba_4eb4_a76f_56f1563d8b42"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OWLClass_64427fc9_3458_4cd2_8539_b227a2edcea7"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#OWLObjectProperty_32227873_9448_4b75_bbcd_d652aa1fd941"/>
+            <Class IRI="#OWLClass_61665181_f639_46e2_bee8_307dadf8d2df"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OWLClass_64427fc9_3458_4cd2_8539_b227a2edcea7"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#OWLObjectProperty_32227873_9448_4b75_bbcd_d652aa1fd941"/>
+            <Class IRI="#OWLClass_63c98325_fbb9_46e9_bbce_5e68eae93186"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OWLClass_64427fc9_3458_4cd2_8539_b227a2edcea7"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#OWLObjectProperty_32227873_9448_4b75_bbcd_d652aa1fd941"/>
+            <Class IRI="#OWLClass_67da374b_4cc2_4a8e_bce8_f444c298c3a2"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OWLClass_64427fc9_3458_4cd2_8539_b227a2edcea7"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#OWLObjectProperty_32227873_9448_4b75_bbcd_d652aa1fd941"/>
+            <Class IRI="#OWLClass_c3d40b7a_cd89_4b46_b371_979ca3ecd899"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OWLClass_64427fc9_3458_4cd2_8539_b227a2edcea7"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#OWLObjectProperty_32227873_9448_4b75_bbcd_d652aa1fd941"/>
+            <Class IRI="#OWLClass_ebc314cf_72d4_4761_bc02_ebfa7dfe502e"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OWLClass_64427fc9_3458_4cd2_8539_b227a2edcea7"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#OWLObjectProperty_32227873_9448_4b75_bbcd_d652aa1fd941"/>
+            <Class IRI="#OWLClass_fed9e36f_ef6f_4652_a757_3f3d373d8e68"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OWLClass_64427fc9_3458_4cd2_8539_b227a2edcea7"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#OWLObjectProperty_371d9064_2b2a_4bb1_b2dd_c027846d8c4e"/>
+            <Class IRI="#OWLClass_15124cbb_39e8_4963_94fe_fb39d50d0d58"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OWLClass_64427fc9_3458_4cd2_8539_b227a2edcea7"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#OWLObjectProperty_371d9064_2b2a_4bb1_b2dd_c027846d8c4e"/>
+            <Class IRI="#OWLClass_714421bf_8c34_4678_8001_6f43627a0218"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OWLClass_64427fc9_3458_4cd2_8539_b227a2edcea7"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#OWLObjectProperty_371d9064_2b2a_4bb1_b2dd_c027846d8c4e"/>
+            <Class IRI="#OWLClass_a918c74d_799a_477f_a90f_c8b28da261dd"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OWLClass_64427fc9_3458_4cd2_8539_b227a2edcea7"/>
+        <ObjectAllValuesFrom>
+            <ObjectProperty IRI="#OWLObjectProperty_32227873_9448_4b75_bbcd_d652aa1fd941"/>
+            <ObjectUnionOf>
+                <Class IRI="#OWLClass_3efe066e_66ba_4eb4_a76f_56f1563d8b42"/>
+                <Class IRI="#OWLClass_61665181_f639_46e2_bee8_307dadf8d2df"/>
+                <Class IRI="#OWLClass_63c98325_fbb9_46e9_bbce_5e68eae93186"/>
+                <Class IRI="#OWLClass_67da374b_4cc2_4a8e_bce8_f444c298c3a2"/>
+                <Class IRI="#OWLClass_c3d40b7a_cd89_4b46_b371_979ca3ecd899"/>
+                <Class IRI="#OWLClass_ebc314cf_72d4_4761_bc02_ebfa7dfe502e"/>
+                <Class IRI="#OWLClass_fed9e36f_ef6f_4652_a757_3f3d373d8e68"/>
+            </ObjectUnionOf>
+        </ObjectAllValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OWLClass_67da374b_4cc2_4a8e_bce8_f444c298c3a2"/>
+        <Class IRI="#OWLClass_bc05a883_0467_494c_b115_5088c4c0505c"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OWLClass_6c0e8f0d_d2de_4542_a374_bd30bf84b630"/>
+        <Class IRI="#OWLClass_48ca2fe4_a12b_46cb_a3db_7297d8b838ad"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OWLClass_6c44e3c0_7014_4070_8d64_0455eaae9127"/>
+        <Class IRI="#OWLClass_ca9d9cad_2397_43ca_a893_1d5ce5e1fb1c"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OWLClass_6d863446_fb0a_47e0_bc73_d9c5b7f5088d"/>
+        <Class IRI="#OWLClass_6419e7ac_95a8_4461_afcd_542f1a8b023e"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OWLClass_703c69a7_6809_4be4_b988_9979de066e57"/>
+        <Class IRI="#OWLClass_10ed5ecf_e3c4_40d6_bdc6_40bc8681b9d4"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OWLClass_714421bf_8c34_4678_8001_6f43627a0218"/>
+        <Class IRI="#OWLClass_cf160f5d_caf7_4da1_a276_a9a993b18a9f"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OWLClass_716b9277_2d00_4635_8906_49a7d6811ede"/>
+        <Class IRI="#OWLClass_cef44323_cbad_4b0f_988f_2accb677c678"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OWLClass_716b9277_2d00_4635_8906_49a7d6811ede"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#OWLObjectProperty_32227873_9448_4b75_bbcd_d652aa1fd941"/>
+            <Class IRI="#OWLClass_3efe066e_66ba_4eb4_a76f_56f1563d8b42"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OWLClass_716b9277_2d00_4635_8906_49a7d6811ede"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#OWLObjectProperty_32227873_9448_4b75_bbcd_d652aa1fd941"/>
+            <Class IRI="#OWLClass_4d8c52ad_d368_4079_8091_9c3775195827"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OWLClass_716b9277_2d00_4635_8906_49a7d6811ede"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#OWLObjectProperty_32227873_9448_4b75_bbcd_d652aa1fd941"/>
+            <Class IRI="#OWLClass_67da374b_4cc2_4a8e_bce8_f444c298c3a2"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OWLClass_716b9277_2d00_4635_8906_49a7d6811ede"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#OWLObjectProperty_32227873_9448_4b75_bbcd_d652aa1fd941"/>
+            <Class IRI="#OWLClass_97264841_bcbb_438f_9da4_aabd0f06247c"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OWLClass_716b9277_2d00_4635_8906_49a7d6811ede"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#OWLObjectProperty_32227873_9448_4b75_bbcd_d652aa1fd941"/>
+            <Class IRI="#OWLClass_b12f910b_3d6f_4e92_bba5_d259246b7dd1"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OWLClass_716b9277_2d00_4635_8906_49a7d6811ede"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#OWLObjectProperty_32227873_9448_4b75_bbcd_d652aa1fd941"/>
+            <Class IRI="#OWLClass_c22207c8_f06f_448a_97dc_f8ddeeec5809"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OWLClass_716b9277_2d00_4635_8906_49a7d6811ede"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#OWLObjectProperty_32227873_9448_4b75_bbcd_d652aa1fd941"/>
+            <Class IRI="#OWLClass_c3d40b7a_cd89_4b46_b371_979ca3ecd899"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OWLClass_716b9277_2d00_4635_8906_49a7d6811ede"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#OWLObjectProperty_32227873_9448_4b75_bbcd_d652aa1fd941"/>
+            <Class IRI="#OWLClass_e0ee3ef8_5af0_4bf6_bdb5_f091199682c7"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OWLClass_716b9277_2d00_4635_8906_49a7d6811ede"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#OWLObjectProperty_32227873_9448_4b75_bbcd_d652aa1fd941"/>
+            <Class IRI="#OWLClass_ebc314cf_72d4_4761_bc02_ebfa7dfe502e"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OWLClass_716b9277_2d00_4635_8906_49a7d6811ede"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#OWLObjectProperty_32227873_9448_4b75_bbcd_d652aa1fd941"/>
+            <Class IRI="#OWLClass_fed9e36f_ef6f_4652_a757_3f3d373d8e68"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OWLClass_716b9277_2d00_4635_8906_49a7d6811ede"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#OWLObjectProperty_371d9064_2b2a_4bb1_b2dd_c027846d8c4e"/>
+            <Class IRI="#OWLClass_08f0ded6_9f4c_47dd_b513_3bcd14132ffa"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OWLClass_716b9277_2d00_4635_8906_49a7d6811ede"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#OWLObjectProperty_371d9064_2b2a_4bb1_b2dd_c027846d8c4e"/>
+            <Class IRI="#OWLClass_714421bf_8c34_4678_8001_6f43627a0218"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OWLClass_716b9277_2d00_4635_8906_49a7d6811ede"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#OWLObjectProperty_371d9064_2b2a_4bb1_b2dd_c027846d8c4e"/>
+            <Class IRI="#OWLClass_c4ef3345_b8bd_4d71_b4a2_bd81493e6417"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OWLClass_716b9277_2d00_4635_8906_49a7d6811ede"/>
+        <ObjectAllValuesFrom>
+            <ObjectProperty IRI="#OWLObjectProperty_32227873_9448_4b75_bbcd_d652aa1fd941"/>
+            <ObjectUnionOf>
+                <Class IRI="#OWLClass_3efe066e_66ba_4eb4_a76f_56f1563d8b42"/>
+                <Class IRI="#OWLClass_4d8c52ad_d368_4079_8091_9c3775195827"/>
+                <Class IRI="#OWLClass_67da374b_4cc2_4a8e_bce8_f444c298c3a2"/>
+                <Class IRI="#OWLClass_97264841_bcbb_438f_9da4_aabd0f06247c"/>
+                <Class IRI="#OWLClass_b12f910b_3d6f_4e92_bba5_d259246b7dd1"/>
+                <Class IRI="#OWLClass_c22207c8_f06f_448a_97dc_f8ddeeec5809"/>
+                <Class IRI="#OWLClass_c3d40b7a_cd89_4b46_b371_979ca3ecd899"/>
+                <Class IRI="#OWLClass_e0ee3ef8_5af0_4bf6_bdb5_f091199682c7"/>
+                <Class IRI="#OWLClass_ebc314cf_72d4_4761_bc02_ebfa7dfe502e"/>
+                <Class IRI="#OWLClass_fed9e36f_ef6f_4652_a757_3f3d373d8e68"/>
+            </ObjectUnionOf>
+        </ObjectAllValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OWLClass_755b8408_c4de_44d6_b3ff_842168ae1c2a"/>
+        <Class IRI="#OWLClass_241f970b_ee30_4757_92c1_88965b08a2f2"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OWLClass_7aeb5472_247c_45ff_9b64_3e7df73eb620"/>
+        <Class IRI="#OWLClass_465e88f2_fccb_4e73_a92a_fbd62c4d8c39"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OWLClass_8a88eb01_464a_4ad6_8614_46dc2b853628"/>
+        <Class IRI="#OWLClass_cef44323_cbad_4b0f_988f_2accb677c678"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OWLClass_8a88eb01_464a_4ad6_8614_46dc2b853628"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#OWLObjectProperty_32227873_9448_4b75_bbcd_d652aa1fd941"/>
+            <Class IRI="#OWLClass_61665181_f639_46e2_bee8_307dadf8d2df"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OWLClass_8a88eb01_464a_4ad6_8614_46dc2b853628"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#OWLObjectProperty_32227873_9448_4b75_bbcd_d652aa1fd941"/>
+            <Class IRI="#OWLClass_63c98325_fbb9_46e9_bbce_5e68eae93186"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OWLClass_8a88eb01_464a_4ad6_8614_46dc2b853628"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#OWLObjectProperty_32227873_9448_4b75_bbcd_d652aa1fd941"/>
+            <Class IRI="#OWLClass_67da374b_4cc2_4a8e_bce8_f444c298c3a2"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OWLClass_8a88eb01_464a_4ad6_8614_46dc2b853628"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#OWLObjectProperty_32227873_9448_4b75_bbcd_d652aa1fd941"/>
+            <Class IRI="#OWLClass_97264841_bcbb_438f_9da4_aabd0f06247c"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OWLClass_8a88eb01_464a_4ad6_8614_46dc2b853628"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#OWLObjectProperty_32227873_9448_4b75_bbcd_d652aa1fd941"/>
+            <Class IRI="#OWLClass_c3d40b7a_cd89_4b46_b371_979ca3ecd899"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OWLClass_8a88eb01_464a_4ad6_8614_46dc2b853628"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#OWLObjectProperty_32227873_9448_4b75_bbcd_d652aa1fd941"/>
+            <Class IRI="#OWLClass_d694377c_47f4_46ae_8161_f3c1661e2e5f"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OWLClass_8a88eb01_464a_4ad6_8614_46dc2b853628"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#OWLObjectProperty_32227873_9448_4b75_bbcd_d652aa1fd941"/>
+            <Class IRI="#OWLClass_d9ba24f2_13f7_47d3_a493_9758cabf6cf3"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OWLClass_8a88eb01_464a_4ad6_8614_46dc2b853628"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#OWLObjectProperty_32227873_9448_4b75_bbcd_d652aa1fd941"/>
+            <Class IRI="#OWLClass_ebc314cf_72d4_4761_bc02_ebfa7dfe502e"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OWLClass_8a88eb01_464a_4ad6_8614_46dc2b853628"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#OWLObjectProperty_32227873_9448_4b75_bbcd_d652aa1fd941"/>
+            <Class IRI="#OWLClass_fed9e36f_ef6f_4652_a757_3f3d373d8e68"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OWLClass_8a88eb01_464a_4ad6_8614_46dc2b853628"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#OWLObjectProperty_371d9064_2b2a_4bb1_b2dd_c027846d8c4e"/>
+            <Class IRI="#OWLClass_15124cbb_39e8_4963_94fe_fb39d50d0d58"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OWLClass_8a88eb01_464a_4ad6_8614_46dc2b853628"/>
+        <ObjectAllValuesFrom>
+            <ObjectProperty IRI="#OWLObjectProperty_32227873_9448_4b75_bbcd_d652aa1fd941"/>
+            <ObjectUnionOf>
+                <Class IRI="#OWLClass_61665181_f639_46e2_bee8_307dadf8d2df"/>
+                <Class IRI="#OWLClass_63c98325_fbb9_46e9_bbce_5e68eae93186"/>
+                <Class IRI="#OWLClass_67da374b_4cc2_4a8e_bce8_f444c298c3a2"/>
+                <Class IRI="#OWLClass_97264841_bcbb_438f_9da4_aabd0f06247c"/>
+                <Class IRI="#OWLClass_c3d40b7a_cd89_4b46_b371_979ca3ecd899"/>
+                <Class IRI="#OWLClass_d694377c_47f4_46ae_8161_f3c1661e2e5f"/>
+                <Class IRI="#OWLClass_d9ba24f2_13f7_47d3_a493_9758cabf6cf3"/>
+                <Class IRI="#OWLClass_ebc314cf_72d4_4761_bc02_ebfa7dfe502e"/>
+                <Class IRI="#OWLClass_fed9e36f_ef6f_4652_a757_3f3d373d8e68"/>
+            </ObjectUnionOf>
+        </ObjectAllValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OWLClass_8a88eb01_464a_4ad6_8614_46dc2b853628"/>
+        <ObjectHasValue>
+            <ObjectProperty IRI="#OWLObjectProperty_2ff0768a_eaba_4c90_bd0f_b7d01c9773c0"/>
+            <NamedIndividual IRI="#OWLNamedIndividual_257cf362_19a1_4ea2_b749_b79c2e615f1c"/>
+        </ObjectHasValue>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OWLClass_8acd5bbf_6ece_4c5b_b570_26f9053a835e"/>
+        <Class IRI="#OWLClass_ca9d9cad_2397_43ca_a893_1d5ce5e1fb1c"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OWLClass_97264841_bcbb_438f_9da4_aabd0f06247c"/>
+        <Class IRI="#OWLClass_241f970b_ee30_4757_92c1_88965b08a2f2"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OWLClass_97df1adb_595b_4e3a_a733_4b719cf3e267"/>
+        <Class IRI="#OWLClass_f7063f74_f747_47c5_a3cd_36460d140168"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OWLClass_9c1bd086_29f6_443c_99f4_1b5cacdecc79"/>
+        <Class IRI="#OWLClass_465e88f2_fccb_4e73_a92a_fbd62c4d8c39"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OWLClass_9ee7feba_0586_4907_837a_c421caeea89e"/>
+        <Class IRI="#OWLClass_0cecc665_ea53_4d60_af91_1f165283d08d"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OWLClass_a158e099_ed45_40a7_95b6_ec81f9b65e74"/>
+        <Class IRI="#OWLClass_12b22950_94a4_4542_b844_dbb9ef391c32"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OWLClass_a3631ffd_8896_4f88_a331_c1516d1342cf"/>
+        <Class IRI="#OWLClass_cef44323_cbad_4b0f_988f_2accb677c678"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OWLClass_a3631ffd_8896_4f88_a331_c1516d1342cf"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#OWLObjectProperty_32227873_9448_4b75_bbcd_d652aa1fd941"/>
+            <Class IRI="#OWLClass_22be1511_69d3_4a62_8a43_a8c86e5a75bf"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OWLClass_a3631ffd_8896_4f88_a331_c1516d1342cf"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#OWLObjectProperty_32227873_9448_4b75_bbcd_d652aa1fd941"/>
+            <Class IRI="#OWLClass_2a29ae31_6f31_41ae_a272_dba98bbbb3ec"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OWLClass_a3631ffd_8896_4f88_a331_c1516d1342cf"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#OWLObjectProperty_32227873_9448_4b75_bbcd_d652aa1fd941"/>
+            <Class IRI="#OWLClass_61665181_f639_46e2_bee8_307dadf8d2df"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OWLClass_a3631ffd_8896_4f88_a331_c1516d1342cf"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#OWLObjectProperty_32227873_9448_4b75_bbcd_d652aa1fd941"/>
+            <Class IRI="#OWLClass_63c98325_fbb9_46e9_bbce_5e68eae93186"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OWLClass_a3631ffd_8896_4f88_a331_c1516d1342cf"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#OWLObjectProperty_32227873_9448_4b75_bbcd_d652aa1fd941"/>
+            <Class IRI="#OWLClass_67da374b_4cc2_4a8e_bce8_f444c298c3a2"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OWLClass_a3631ffd_8896_4f88_a331_c1516d1342cf"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#OWLObjectProperty_32227873_9448_4b75_bbcd_d652aa1fd941"/>
+            <Class IRI="#OWLClass_755b8408_c4de_44d6_b3ff_842168ae1c2a"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OWLClass_a3631ffd_8896_4f88_a331_c1516d1342cf"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#OWLObjectProperty_32227873_9448_4b75_bbcd_d652aa1fd941"/>
+            <Class IRI="#OWLClass_c3d40b7a_cd89_4b46_b371_979ca3ecd899"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OWLClass_a3631ffd_8896_4f88_a331_c1516d1342cf"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#OWLObjectProperty_32227873_9448_4b75_bbcd_d652aa1fd941"/>
+            <Class IRI="#OWLClass_fed9e36f_ef6f_4652_a757_3f3d373d8e68"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OWLClass_a3631ffd_8896_4f88_a331_c1516d1342cf"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#OWLObjectProperty_371d9064_2b2a_4bb1_b2dd_c027846d8c4e"/>
+            <Class IRI="#OWLClass_15124cbb_39e8_4963_94fe_fb39d50d0d58"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OWLClass_a3631ffd_8896_4f88_a331_c1516d1342cf"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#OWLObjectProperty_371d9064_2b2a_4bb1_b2dd_c027846d8c4e"/>
+            <Class IRI="#OWLClass_c4ef3345_b8bd_4d71_b4a2_bd81493e6417"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OWLClass_a3631ffd_8896_4f88_a331_c1516d1342cf"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#OWLObjectProperty_371d9064_2b2a_4bb1_b2dd_c027846d8c4e"/>
+            <Class IRI="#OWLClass_d7f9b09a_13eb_43ee_9600_e70fba8a44b7"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OWLClass_a3631ffd_8896_4f88_a331_c1516d1342cf"/>
+        <ObjectAllValuesFrom>
+            <ObjectProperty IRI="#OWLObjectProperty_32227873_9448_4b75_bbcd_d652aa1fd941"/>
+            <ObjectUnionOf>
+                <Class IRI="#OWLClass_22be1511_69d3_4a62_8a43_a8c86e5a75bf"/>
+                <Class IRI="#OWLClass_2a29ae31_6f31_41ae_a272_dba98bbbb3ec"/>
+                <Class IRI="#OWLClass_61665181_f639_46e2_bee8_307dadf8d2df"/>
+                <Class IRI="#OWLClass_63c98325_fbb9_46e9_bbce_5e68eae93186"/>
+                <Class IRI="#OWLClass_67da374b_4cc2_4a8e_bce8_f444c298c3a2"/>
+                <Class IRI="#OWLClass_755b8408_c4de_44d6_b3ff_842168ae1c2a"/>
+                <Class IRI="#OWLClass_c3d40b7a_cd89_4b46_b371_979ca3ecd899"/>
+                <Class IRI="#OWLClass_fed9e36f_ef6f_4652_a757_3f3d373d8e68"/>
+            </ObjectUnionOf>
+        </ObjectAllValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OWLClass_a918c74d_799a_477f_a90f_c8b28da261dd"/>
+        <Class IRI="#OWLClass_6c0e8f0d_d2de_4542_a374_bd30bf84b630"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OWLClass_abfc1931_da4a_4d86_95ef_4896d1dc97fd"/>
+        <Class IRI="#OWLClass_10ed5ecf_e3c4_40d6_bdc6_40bc8681b9d4"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OWLClass_b12f910b_3d6f_4e92_bba5_d259246b7dd1"/>
+        <Class IRI="#OWLClass_bc05a883_0467_494c_b115_5088c4c0505c"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OWLClass_b5716753_4401_4871_8d1f_6862bcdfaa63"/>
+        <Class IRI="#OWLClass_12b22950_94a4_4542_b844_dbb9ef391c32"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OWLClass_b6c8e788_dad3_4d18_815b_8d98d7be4e78"/>
+        <Class IRI="#OWLClass_f7063f74_f747_47c5_a3cd_36460d140168"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OWLClass_baae1b8a_871e_4819_a555_27ad084a4050"/>
+        <Class IRI="#OWLClass_ca9d9cad_2397_43ca_a893_1d5ce5e1fb1c"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OWLClass_bc05a883_0467_494c_b115_5088c4c0505c"/>
+        <Class IRI="#OWLClass_280e0d3a_9b1c_4a49_bff0_9aa685673ee1"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OWLClass_c198a602_6900_4bee_b3c6_053722b16db0"/>
+        <Class IRI="#OWLClass_ca9d9cad_2397_43ca_a893_1d5ce5e1fb1c"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OWLClass_c22207c8_f06f_448a_97dc_f8ddeeec5809"/>
+        <Class IRI="#OWLClass_ca9d9cad_2397_43ca_a893_1d5ce5e1fb1c"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OWLClass_c3d40b7a_cd89_4b46_b371_979ca3ecd899"/>
+        <Class IRI="#OWLClass_bc05a883_0467_494c_b115_5088c4c0505c"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OWLClass_c4ef3345_b8bd_4d71_b4a2_bd81493e6417"/>
+        <Class IRI="#OWLClass_6c0e8f0d_d2de_4542_a374_bd30bf84b630"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OWLClass_ca9d9cad_2397_43ca_a893_1d5ce5e1fb1c"/>
+        <Class IRI="#OWLClass_280e0d3a_9b1c_4a49_bff0_9aa685673ee1"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OWLClass_cef44323_cbad_4b0f_988f_2accb677c678"/>
+        <Class IRI="#OWLClass_5317ef8b_2b81_42a1_aa6c_63bfb71c0c6f"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OWLClass_cf160f5d_caf7_4da1_a276_a9a993b18a9f"/>
+        <Class IRI="#OWLClass_6419e7ac_95a8_4461_afcd_542f1a8b023e"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OWLClass_d694377c_47f4_46ae_8161_f3c1661e2e5f"/>
+        <Class IRI="#OWLClass_bc05a883_0467_494c_b115_5088c4c0505c"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OWLClass_d7f9b09a_13eb_43ee_9600_e70fba8a44b7"/>
+        <Class IRI="#OWLClass_6c0e8f0d_d2de_4542_a374_bd30bf84b630"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OWLClass_d9ba24f2_13f7_47d3_a493_9758cabf6cf3"/>
+        <Class IRI="#OWLClass_5d4d4e61_3ecb_48da_8c07_d9c19983a2ce"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OWLClass_dd62325b_9e82_4dce_a9a0_a14fb453c6cf"/>
+        <Class IRI="#OWLClass_f7063f74_f747_47c5_a3cd_36460d140168"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OWLClass_e030d5a8_1de0_41cb_b4ff_c213f0a70eb2"/>
+        <Class IRI="#OWLClass_5d4d4e61_3ecb_48da_8c07_d9c19983a2ce"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OWLClass_e0ee3ef8_5af0_4bf6_bdb5_f091199682c7"/>
+        <Class IRI="#OWLClass_f7063f74_f747_47c5_a3cd_36460d140168"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OWLClass_e40319df_8d6d_446d_a5de_f43c1ec86add"/>
+        <Class IRI="#OWLClass_6c0e8f0d_d2de_4542_a374_bd30bf84b630"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OWLClass_ebc314cf_72d4_4761_bc02_ebfa7dfe502e"/>
+        <Class IRI="#OWLClass_ca9d9cad_2397_43ca_a893_1d5ce5e1fb1c"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OWLClass_f5f1a116_a0ed_466f_93f6_4ce65fdacd71"/>
+        <Class IRI="#OWLClass_cef44323_cbad_4b0f_988f_2accb677c678"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OWLClass_f5f1a116_a0ed_466f_93f6_4ce65fdacd71"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#OWLObjectProperty_32227873_9448_4b75_bbcd_d652aa1fd941"/>
+            <Class IRI="#OWLClass_0fd642bc_36cc_4313_86b0_179f9f2d4896"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OWLClass_f5f1a116_a0ed_466f_93f6_4ce65fdacd71"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#OWLObjectProperty_32227873_9448_4b75_bbcd_d652aa1fd941"/>
+            <Class IRI="#OWLClass_2e92f3e8_2a3c_4780_bd37_f5cc64fb345b"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OWLClass_f5f1a116_a0ed_466f_93f6_4ce65fdacd71"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#OWLObjectProperty_32227873_9448_4b75_bbcd_d652aa1fd941"/>
+            <Class IRI="#OWLClass_3efe066e_66ba_4eb4_a76f_56f1563d8b42"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OWLClass_f5f1a116_a0ed_466f_93f6_4ce65fdacd71"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#OWLObjectProperty_32227873_9448_4b75_bbcd_d652aa1fd941"/>
+            <Class IRI="#OWLClass_4c7392de_587f_4161_b848_53692626f6f2"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OWLClass_f5f1a116_a0ed_466f_93f6_4ce65fdacd71"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#OWLObjectProperty_32227873_9448_4b75_bbcd_d652aa1fd941"/>
+            <Class IRI="#OWLClass_61665181_f639_46e2_bee8_307dadf8d2df"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OWLClass_f5f1a116_a0ed_466f_93f6_4ce65fdacd71"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#OWLObjectProperty_32227873_9448_4b75_bbcd_d652aa1fd941"/>
+            <Class IRI="#OWLClass_c3d40b7a_cd89_4b46_b371_979ca3ecd899"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OWLClass_f5f1a116_a0ed_466f_93f6_4ce65fdacd71"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#OWLObjectProperty_32227873_9448_4b75_bbcd_d652aa1fd941"/>
+            <Class IRI="#OWLClass_fed9e36f_ef6f_4652_a757_3f3d373d8e68"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OWLClass_f5f1a116_a0ed_466f_93f6_4ce65fdacd71"/>
+        <ObjectSomeValuesFrom>
+            <ObjectProperty IRI="#OWLObjectProperty_371d9064_2b2a_4bb1_b2dd_c027846d8c4e"/>
+            <Class IRI="#OWLClass_534fb793_3322_41b9_bbce_83cfead1bf5f"/>
+        </ObjectSomeValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OWLClass_f5f1a116_a0ed_466f_93f6_4ce65fdacd71"/>
+        <ObjectAllValuesFrom>
+            <ObjectProperty IRI="#OWLObjectProperty_32227873_9448_4b75_bbcd_d652aa1fd941"/>
+            <ObjectUnionOf>
+                <Class IRI="#OWLClass_0fd642bc_36cc_4313_86b0_179f9f2d4896"/>
+                <Class IRI="#OWLClass_2e92f3e8_2a3c_4780_bd37_f5cc64fb345b"/>
+                <Class IRI="#OWLClass_3efe066e_66ba_4eb4_a76f_56f1563d8b42"/>
+                <Class IRI="#OWLClass_4c7392de_587f_4161_b848_53692626f6f2"/>
+                <Class IRI="#OWLClass_61665181_f639_46e2_bee8_307dadf8d2df"/>
+                <Class IRI="#OWLClass_c3d40b7a_cd89_4b46_b371_979ca3ecd899"/>
+                <Class IRI="#OWLClass_fed9e36f_ef6f_4652_a757_3f3d373d8e68"/>
+            </ObjectUnionOf>
+        </ObjectAllValuesFrom>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OWLClass_f7063f74_f747_47c5_a3cd_36460d140168"/>
+        <Class IRI="#OWLClass_1fb7a113_d826_424a_ac39_42a7c2a94318"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OWLClass_fed9e36f_ef6f_4652_a757_3f3d373d8e68"/>
+        <Class IRI="#OWLClass_bc05a883_0467_494c_b115_5088c4c0505c"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#OWLClass_feef126b_684a_4404_894f_04de4f5e2b7f"/>
+        <Class IRI="#OWLClass_7aeb5472_247c_45ff_9b64_3e7df73eb620"/>
+    </SubClassOf>
+    <DisjointClasses>
+        <Class IRI="#OWLClass_08f0ded6_9f4c_47dd_b513_3bcd14132ffa"/>
+        <Class IRI="#OWLClass_15124cbb_39e8_4963_94fe_fb39d50d0d58"/>
+        <Class IRI="#OWLClass_534fb793_3322_41b9_bbce_83cfead1bf5f"/>
+        <Class IRI="#OWLClass_9ee7feba_0586_4907_837a_c421caeea89e"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="#OWLClass_0cecc665_ea53_4d60_af91_1f165283d08d"/>
+        <Class IRI="#OWLClass_6d863446_fb0a_47e0_bc73_d9c5b7f5088d"/>
+        <Class IRI="#OWLClass_cf160f5d_caf7_4da1_a276_a9a993b18a9f"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="#OWLClass_0fd642bc_36cc_4313_86b0_179f9f2d4896"/>
+        <Class IRI="#OWLClass_2c88e3fa_535c_48c6_88bd_5be535bc814b"/>
+        <Class IRI="#OWLClass_56e81550_15f3_4b8c_b329_85815aa5d8cb"/>
+        <Class IRI="#OWLClass_755b8408_c4de_44d6_b3ff_842168ae1c2a"/>
+        <Class IRI="#OWLClass_97264841_bcbb_438f_9da4_aabd0f06247c"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="#OWLClass_10ed5ecf_e3c4_40d6_bdc6_40bc8681b9d4"/>
+        <Class IRI="#OWLClass_6419e7ac_95a8_4461_afcd_542f1a8b023e"/>
+        <Class IRI="#OWLClass_6c0e8f0d_d2de_4542_a374_bd30bf84b630"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="#OWLClass_11253dbf_c30e_45a9_9c8e_14ee43cc5177"/>
+        <Class IRI="#OWLClass_714421bf_8c34_4678_8001_6f43627a0218"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="#OWLClass_12b22950_94a4_4542_b844_dbb9ef391c32"/>
+        <Class IRI="#OWLClass_4e8bb83e_78c6_4776_8527_9c85666821e3"/>
+        <Class IRI="#OWLClass_703c69a7_6809_4be4_b988_9979de066e57"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="#OWLClass_12b22950_94a4_4542_b844_dbb9ef391c32"/>
+        <Class IRI="#OWLClass_4e8bb83e_78c6_4776_8527_9c85666821e3"/>
+        <Class IRI="#OWLClass_703c69a7_6809_4be4_b988_9979de066e57"/>
+        <Class IRI="#OWLClass_abfc1931_da4a_4d86_95ef_4896d1dc97fd"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="#OWLClass_14052763_e26a_490d_a110_54164d2471c3"/>
+        <Class IRI="#OWLClass_5a866f54_d9de_4b9e_a2c8_d012cbf9d1fb"/>
+        <Class IRI="#OWLClass_5f3e2705_dbce_4e5b_b1c0_167b3f6baf95"/>
+        <Class IRI="#OWLClass_64427fc9_3458_4cd2_8539_b227a2edcea7"/>
+        <Class IRI="#OWLClass_716b9277_2d00_4635_8906_49a7d6811ede"/>
+        <Class IRI="#OWLClass_8a88eb01_464a_4ad6_8614_46dc2b853628"/>
+        <Class IRI="#OWLClass_a3631ffd_8896_4f88_a331_c1516d1342cf"/>
+        <Class IRI="#OWLClass_f5f1a116_a0ed_466f_93f6_4ce65fdacd71"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="#OWLClass_1fb7a113_d826_424a_ac39_42a7c2a94318"/>
+        <Class IRI="#OWLClass_48ca2fe4_a12b_46cb_a3db_7297d8b838ad"/>
+        <Class IRI="#OWLClass_5317ef8b_2b81_42a1_aa6c_63bfb71c0c6f"/>
+        <Class IRI="#OWLClass_a0a55052_4391_45d8_901e_5d90dd7c4d79"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="#OWLClass_20cafb0f_70a1_46a2_b99b_50d365d2bce0"/>
+        <Class IRI="#OWLClass_4d36eb2a_f945_4070_8016_4c04f3fa9a81"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="#OWLClass_22be1511_69d3_4a62_8a43_a8c86e5a75bf"/>
+        <Class IRI="#OWLClass_97df1adb_595b_4e3a_a733_4b719cf3e267"/>
+        <Class IRI="#OWLClass_b6c8e788_dad3_4d18_815b_8d98d7be4e78"/>
+        <Class IRI="#OWLClass_dd62325b_9e82_4dce_a9a0_a14fb453c6cf"/>
+        <Class IRI="#OWLClass_e0ee3ef8_5af0_4bf6_bdb5_f091199682c7"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="#OWLClass_241f970b_ee30_4757_92c1_88965b08a2f2"/>
+        <Class IRI="#OWLClass_280e0d3a_9b1c_4a49_bff0_9aa685673ee1"/>
+        <Class IRI="#OWLClass_5d4d4e61_3ecb_48da_8c07_d9c19983a2ce"/>
+        <Class IRI="#OWLClass_f7063f74_f747_47c5_a3cd_36460d140168"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="#OWLClass_2e92f3e8_2a3c_4780_bd37_f5cc64fb345b"/>
+        <Class IRI="#OWLClass_304b4643_6552_44c6_9d0a_1e616822f42a"/>
+        <Class IRI="#OWLClass_4d8c52ad_d368_4079_8091_9c3775195827"/>
+        <Class IRI="#OWLClass_d9ba24f2_13f7_47d3_a493_9758cabf6cf3"/>
+        <Class IRI="#OWLClass_e030d5a8_1de0_41cb_b4ff_c213f0a70eb2"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="#OWLClass_3efe066e_66ba_4eb4_a76f_56f1563d8b42"/>
+        <Class IRI="#OWLClass_63c98325_fbb9_46e9_bbce_5e68eae93186"/>
+        <Class IRI="#OWLClass_67da374b_4cc2_4a8e_bce8_f444c298c3a2"/>
+        <Class IRI="#OWLClass_b12f910b_3d6f_4e92_bba5_d259246b7dd1"/>
+        <Class IRI="#OWLClass_c3d40b7a_cd89_4b46_b371_979ca3ecd899"/>
+        <Class IRI="#OWLClass_d694377c_47f4_46ae_8161_f3c1661e2e5f"/>
+        <Class IRI="#OWLClass_fed9e36f_ef6f_4652_a757_3f3d373d8e68"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="#OWLClass_4479d709_04d8_4f7a_b29b_20fb91fa8697"/>
+        <Class IRI="#OWLClass_a158e099_ed45_40a7_95b6_ec81f9b65e74"/>
+        <Class IRI="#OWLClass_b5716753_4401_4871_8d1f_6862bcdfaa63"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="#OWLClass_4c7392de_587f_4161_b848_53692626f6f2"/>
+        <Class IRI="#OWLClass_60ddc6fc_37f2_46bb_8c5c_d8bd927d57ac"/>
+        <Class IRI="#OWLClass_61665181_f639_46e2_bee8_307dadf8d2df"/>
+        <Class IRI="#OWLClass_6c44e3c0_7014_4070_8d64_0455eaae9127"/>
+        <Class IRI="#OWLClass_8acd5bbf_6ece_4c5b_b570_26f9053a835e"/>
+        <Class IRI="#OWLClass_baae1b8a_871e_4819_a555_27ad084a4050"/>
+        <Class IRI="#OWLClass_c198a602_6900_4bee_b3c6_053722b16db0"/>
+        <Class IRI="#OWLClass_c22207c8_f06f_448a_97dc_f8ddeeec5809"/>
+        <Class IRI="#OWLClass_ebc314cf_72d4_4761_bc02_ebfa7dfe502e"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="#OWLClass_4fc1c81d_9d58_4adb_98e1_1e1857d6439e"/>
+        <Class IRI="#OWLClass_7aeb5472_247c_45ff_9b64_3e7df73eb620"/>
+        <Class IRI="#OWLClass_9c1bd086_29f6_443c_99f4_1b5cacdecc79"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="#OWLClass_52854780_c6a1_499e_8953_40b73d387172"/>
+        <Class IRI="#OWLClass_feef126b_684a_4404_894f_04de4f5e2b7f"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="#OWLClass_a918c74d_799a_477f_a90f_c8b28da261dd"/>
+        <Class IRI="#OWLClass_e40319df_8d6d_446d_a5de_f43c1ec86add"/>
+    </DisjointClasses>
+    <DisjointClasses>
+        <Class IRI="#OWLClass_bc05a883_0467_494c_b115_5088c4c0505c"/>
+        <Class IRI="#OWLClass_ca9d9cad_2397_43ca_a893_1d5ce5e1fb1c"/>
+    </DisjointClasses>
+    <ClassAssertion>
+        <Class IRI="#OWLClass_a0a55052_4391_45d8_901e_5d90dd7c4d79"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_257cf362_19a1_4ea2_b749_b79c2e615f1c"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#OWLClass_a0a55052_4391_45d8_901e_5d90dd7c4d79"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_294a3b04_6d53_41c6_a780_715459bb4b7d"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#OWLClass_a0a55052_4391_45d8_901e_5d90dd7c4d79"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_3f020925_7f06_4484_95f2_16b0c1b7105e"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#OWLClass_a0a55052_4391_45d8_901e_5d90dd7c4d79"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_57825451_1e35_4640_ade8_1f068d9213e9"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#OWLClass_a0a55052_4391_45d8_901e_5d90dd7c4d79"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_ca1ed742_a160_4cc5_a41a_68748c5c972d"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#OWLClass_a0a55052_4391_45d8_901e_5d90dd7c4d79"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_d9da7358_f9dd_4fad_9e94_ec07163d9e8b"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#OWLClass_6d863446_fb0a_47e0_bc73_d9c5b7f5088d"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_ff5cb38a_3893_443c_ac89_29e6f70c0ef4"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#OWLClass_a0a55052_4391_45d8_901e_5d90dd7c4d79"/>
+        <NamedIndividual IRI="#OWLNamedIndividual_ff74c326_ef67_4488_8a2d_0c2e8ce9efa5"/>
+    </ClassAssertion>
+    <InverseObjectProperties>
+        <ObjectProperty IRI="#OWLObjectProperty_0266a9da_3344_4c0b_943e_2c30b097dd2d"/>
+        <ObjectProperty IRI="#OWLObjectProperty_32227873_9448_4b75_bbcd_d652aa1fd941"/>
+    </InverseObjectProperties>
+    <InverseObjectProperties>
+        <ObjectProperty IRI="#OWLObjectProperty_371d9064_2b2a_4bb1_b2dd_c027846d8c4e"/>
+        <ObjectProperty IRI="#OWLObjectProperty_f881c48f_33b9_40a1_9dfe_5ebe4d73f370"/>
+    </InverseObjectProperties>
+    <FunctionalObjectProperty>
+        <ObjectProperty IRI="#OWLObjectProperty_0266a9da_3344_4c0b_943e_2c30b097dd2d"/>
+    </FunctionalObjectProperty>
+    <FunctionalObjectProperty>
+        <ObjectProperty IRI="#OWLObjectProperty_f881c48f_33b9_40a1_9dfe_5ebe4d73f370"/>
+    </FunctionalObjectProperty>
+    <InverseFunctionalObjectProperty>
+        <ObjectProperty IRI="#OWLObjectProperty_32227873_9448_4b75_bbcd_d652aa1fd941"/>
+    </InverseFunctionalObjectProperty>
+    <InverseFunctionalObjectProperty>
+        <ObjectProperty IRI="#OWLObjectProperty_371d9064_2b2a_4bb1_b2dd_c027846d8c4e"/>
+    </InverseFunctionalObjectProperty>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#OWLObjectProperty_0266a9da_3344_4c0b_943e_2c30b097dd2d"/>
+        <Class IRI="#OWLClass_1fb7a113_d826_424a_ac39_42a7c2a94318"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#OWLObjectProperty_32227873_9448_4b75_bbcd_d652aa1fd941"/>
+        <Class IRI="#OWLClass_5317ef8b_2b81_42a1_aa6c_63bfb71c0c6f"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#OWLObjectProperty_371d9064_2b2a_4bb1_b2dd_c027846d8c4e"/>
+        <Class IRI="#OWLClass_5317ef8b_2b81_42a1_aa6c_63bfb71c0c6f"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#OWLObjectProperty_f881c48f_33b9_40a1_9dfe_5ebe4d73f370"/>
+        <Class IRI="#OWLClass_48ca2fe4_a12b_46cb_a3db_7297d8b838ad"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#OWLObjectProperty_0266a9da_3344_4c0b_943e_2c30b097dd2d"/>
+        <Class IRI="#OWLClass_5317ef8b_2b81_42a1_aa6c_63bfb71c0c6f"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#OWLObjectProperty_32227873_9448_4b75_bbcd_d652aa1fd941"/>
+        <Class IRI="#OWLClass_1fb7a113_d826_424a_ac39_42a7c2a94318"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#OWLObjectProperty_371d9064_2b2a_4bb1_b2dd_c027846d8c4e"/>
+        <Class IRI="#OWLClass_48ca2fe4_a12b_46cb_a3db_7297d8b838ad"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#OWLObjectProperty_f881c48f_33b9_40a1_9dfe_5ebe4d73f370"/>
+        <Class IRI="#OWLClass_5317ef8b_2b81_42a1_aa6c_63bfb71c0c6f"/>
+    </ObjectPropertyRange>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#OWLClass_08f0ded6_9f4c_47dd_b513_3bcd14132ffa</IRI>
+        <Literal xml:lang="en">BahanDagingAyam</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#OWLClass_0cecc665_ea53_4d60_af91_1f165283d08d</IRI>
+        <Literal xml:lang="en">BahanDaging</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#OWLClass_0fd642bc_36cc_4313_86b0_179f9f2d4896</IRI>
+        <Literal xml:lang="en">BumbuDaunSalam</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#OWLClass_10ed5ecf_e3c4_40d6_bdc6_40bc8681b9d4</IRI>
+        <Literal xml:lang="en">BahanKarbo</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#OWLClass_11253dbf_c30e_45a9_9c8e_14ee43cc5177</IRI>
+        <Literal xml:lang="en">BahanTelurBebek</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#OWLClass_12b22950_94a4_4542_b844_dbb9ef391c32</IRI>
+        <Literal xml:lang="en">BahanMie</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#OWLClass_14052763_e26a_490d_a110_54164d2471c3</IRI>
+        <Literal xml:lang="en">SotoLamongan</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#OWLClass_15124cbb_39e8_4963_94fe_fb39d50d0d58</IRI>
+        <Literal xml:lang="en">BahanDagingSapi</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#OWLClass_1fb7a113_d826_424a_ac39_42a7c2a94318</IRI>
+        <Literal xml:lang="en">Bumbu</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#OWLClass_20cafb0f_70a1_46a2_b99b_50d365d2bce0</IRI>
+        <Literal xml:lang="en">BumbuCabaiHijauKeriting</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#OWLClass_22be1511_69d3_4a62_8a43_a8c86e5a75bf</IRI>
+        <Literal xml:lang="en">BumbuCuka</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#OWLClass_241f970b_ee30_4757_92c1_88965b08a2f2</IRI>
+        <Literal xml:lang="en">BumbuDaun</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#OWLClass_280e0d3a_9b1c_4a49_bff0_9aa685673ee1</IRI>
+        <Literal xml:lang="en">BumbuRempah</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#OWLClass_2a29ae31_6f31_41ae_a272_dba98bbbb3ec</IRI>
+        <Literal xml:lang="en">BumbuKecapManis</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#OWLClass_2c88e3fa_535c_48c6_88bd_5be535bc814b</IRI>
+        <Literal xml:lang="en">BumbuDaunSeledri</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#OWLClass_2e92f3e8_2a3c_4780_bd37_f5cc64fb345b</IRI>
+        <Literal xml:lang="en">BumbuTauco</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#OWLClass_304b4643_6552_44c6_9d0a_1e616822f42a</IRI>
+        <Literal xml:lang="en">BumbuKacangTanah</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#OWLClass_3b339aea_f91e_4f32_a393_ad16237b8d9c</IRI>
+        <Literal xml:lang="en">SotoAyam</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#OWLClass_3efe066e_66ba_4eb4_a76f_56f1563d8b42</IRI>
+        <Literal xml:lang="en">BumbuLengkuas</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#OWLClass_4479d709_04d8_4f7a_b29b_20fb91fa8697</IRI>
+        <Literal xml:lang="en">BahanMieKuning</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#OWLClass_465e88f2_fccb_4e73_a92a_fbd62c4d8c39</IRI>
+        <Literal xml:lang="en">BumbuCabai</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#OWLClass_48ca2fe4_a12b_46cb_a3db_7297d8b838ad</IRI>
+        <Literal xml:lang="en">Bahan</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#OWLClass_4c7392de_587f_4161_b848_53692626f6f2</IRI>
+        <Literal xml:lang="en">BumbuPala</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#OWLClass_4d36eb2a_f945_4070_8016_4c04f3fa9a81</IRI>
+        <Literal xml:lang="en">BumbuCabaiHijauBesar</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#OWLClass_4d8c52ad_d368_4079_8091_9c3775195827</IRI>
+        <Literal xml:lang="en">BumbuTerasi</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#OWLClass_4e8bb83e_78c6_4776_8527_9c85666821e3</IRI>
+        <Literal xml:lang="en">BahanNasi</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#OWLClass_4fc1c81d_9d58_4adb_98e1_1e1857d6439e</IRI>
+        <Literal xml:lang="en">BumbuCabaiRawit</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#OWLClass_52854780_c6a1_499e_8953_40b73d387172</IRI>
+        <Literal xml:lang="en">BumbuCabaiMerahKeriting</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#OWLClass_5317ef8b_2b81_42a1_aa6c_63bfb71c0c6f</IRI>
+        <Literal xml:lang="en">Soto</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#OWLClass_534fb793_3322_41b9_bbce_83cfead1bf5f</IRI>
+        <Literal xml:lang="en">BahanDagingKerbau</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#OWLClass_56e81550_15f3_4b8c_b329_85815aa5d8cb</IRI>
+        <Literal xml:lang="en">BumbuDaunKucai</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#OWLClass_5a866f54_d9de_4b9e_a2c8_d012cbf9d1fb</IRI>
+        <Literal xml:lang="en">SotoTenggiri</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#OWLClass_5bde76d7_497b_4c9a_9376_ed96320ee7e3</IRI>
+        <Literal xml:lang="en">BumbuKecapAsin</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#OWLClass_5d4d4e61_3ecb_48da_8c07_d9c19983a2ce</IRI>
+        <Literal xml:lang="en">BumbuDapur</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#OWLClass_5f3e2705_dbce_4e5b_b1c0_167b3f6baf95</IRI>
+        <Literal xml:lang="en">SotoSemarang</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#OWLClass_60ddc6fc_37f2_46bb_8c5c_d8bd927d57ac</IRI>
+        <Literal xml:lang="en">BumbuCengkeh</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#OWLClass_61665181_f639_46e2_bee8_307dadf8d2df</IRI>
+        <Literal xml:lang="en">BumbuMerica</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#OWLClass_63c98325_fbb9_46e9_bbce_5e68eae93186</IRI>
+        <Literal xml:lang="en">BumbuJahe</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#OWLClass_6419e7ac_95a8_4461_afcd_542f1a8b023e</IRI>
+        <Literal xml:lang="en">BahanProtein</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#OWLClass_64427fc9_3458_4cd2_8539_b227a2edcea7</IRI>
+        <Literal xml:lang="en">SotoMadura</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#OWLClass_67da374b_4cc2_4a8e_bce8_f444c298c3a2</IRI>
+        <Literal xml:lang="en">BumbuSerai</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#OWLClass_6c0e8f0d_d2de_4542_a374_bd30bf84b630</IRI>
+        <Literal xml:lang="en">BahanSayur</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#OWLClass_6c44e3c0_7014_4070_8d64_0455eaae9127</IRI>
+        <Literal xml:lang="en">BumbuJinten</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#OWLClass_6d863446_fb0a_47e0_bc73_d9c5b7f5088d</IRI>
+        <Literal xml:lang="en">BahanIkan</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#OWLClass_703c69a7_6809_4be4_b988_9979de066e57</IRI>
+        <Literal xml:lang="en">BahanKetupat</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#OWLClass_714421bf_8c34_4678_8001_6f43627a0218</IRI>
+        <Literal xml:lang="en">BahanTelurAyam</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#OWLClass_716b9277_2d00_4635_8906_49a7d6811ede</IRI>
+        <Literal xml:lang="en">SotoKediri</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#OWLClass_755b8408_c4de_44d6_b3ff_842168ae1c2a</IRI>
+        <Literal xml:lang="en">BumbuDaunBawang</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#OWLClass_761eec5b_1740_4232_9220_51592ed85c0b</IRI>
+        <Literal xml:lang="en">SotoSapi</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#OWLClass_7aeb5472_247c_45ff_9b64_3e7df73eb620</IRI>
+        <Literal xml:lang="en">BumbuCabaiMerah</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#OWLClass_8a88eb01_464a_4ad6_8614_46dc2b853628</IRI>
+        <Literal xml:lang="en">SotoSulung</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#OWLClass_8acd5bbf_6ece_4c5b_b570_26f9053a835e</IRI>
+        <Literal xml:lang="en">BumbuKayuManis</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#OWLClass_97264841_bcbb_438f_9da4_aabd0f06247c</IRI>
+        <Literal xml:lang="en">BumbuDaunJeruk</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#OWLClass_97df1adb_595b_4e3a_a733_4b719cf3e267</IRI>
+        <Literal xml:lang="en">BumbuSusuCair</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#OWLClass_9c1bd086_29f6_443c_99f4_1b5cacdecc79</IRI>
+        <Literal xml:lang="en">BumbuCabaiHijau</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#OWLClass_9ee7feba_0586_4907_837a_c421caeea89e</IRI>
+        <Literal xml:lang="en">BahanDagingKambing</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#OWLClass_a0a55052_4391_45d8_901e_5d90dd7c4d79</IRI>
+        <Literal xml:lang="en">Daerah</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#OWLClass_a158e099_ed45_40a7_95b6_ec81f9b65e74</IRI>
+        <Literal xml:lang="en">BahanMieBihun</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#OWLClass_a3631ffd_8896_4f88_a331_c1516d1342cf</IRI>
+        <Literal xml:lang="en">SotoBandung</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#OWLClass_a918c74d_799a_477f_a90f_c8b28da261dd</IRI>
+        <Literal xml:lang="en">BahanTauge</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#OWLClass_abfc1931_da4a_4d86_95ef_4896d1dc97fd</IRI>
+        <Literal xml:lang="en">BahanLontong</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#OWLClass_b12f910b_3d6f_4e92_bba5_d259246b7dd1</IRI>
+        <Literal xml:lang="en">BumbuKencur</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#OWLClass_b5716753_4401_4871_8d1f_6862bcdfaa63</IRI>
+        <Literal xml:lang="en">BahanMieSoun</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#OWLClass_b6c8e788_dad3_4d18_815b_8d98d7be4e78</IRI>
+        <Literal xml:lang="en">BumbuMinyakSayur</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#OWLClass_baae1b8a_871e_4819_a555_27ad084a4050</IRI>
+        <Literal xml:lang="en">BumbuKapulaga</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#OWLClass_bc05a883_0467_494c_b115_5088c4c0505c</IRI>
+        <Literal xml:lang="en">BumbuRempahBasah</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#OWLClass_c198a602_6900_4bee_b3c6_053722b16db0</IRI>
+        <Literal xml:lang="en">BumbuBungaLawang</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#OWLClass_c22207c8_f06f_448a_97dc_f8ddeeec5809</IRI>
+        <Literal xml:lang="en">BumbuKetumbar</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#OWLClass_c3d40b7a_cd89_4b46_b371_979ca3ecd899</IRI>
+        <Literal xml:lang="en">BumbuBawangPutih</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#OWLClass_c4ef3345_b8bd_4d71_b4a2_bd81493e6417</IRI>
+        <Literal xml:lang="en">BahanTomat</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#OWLClass_ca9d9cad_2397_43ca_a893_1d5ce5e1fb1c</IRI>
+        <Literal xml:lang="en">BumbuRempahKering</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#OWLClass_cef44323_cbad_4b0f_988f_2accb677c678</IRI>
+        <Literal xml:lang="en">SotoNama</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#OWLClass_cf160f5d_caf7_4da1_a276_a9a993b18a9f</IRI>
+        <Literal xml:lang="en">BahanTelur</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#OWLClass_d694377c_47f4_46ae_8161_f3c1661e2e5f</IRI>
+        <Literal xml:lang="en">BumbuKunyit</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#OWLClass_d7f9b09a_13eb_43ee_9600_e70fba8a44b7</IRI>
+        <Literal xml:lang="en">BahanLobak</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#OWLClass_d9ba24f2_13f7_47d3_a493_9758cabf6cf3</IRI>
+        <Literal xml:lang="en">BumbuGulaPasir</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#OWLClass_dd62325b_9e82_4dce_a9a0_a14fb453c6cf</IRI>
+        <Literal xml:lang="en">BumbuAirAsam</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#OWLClass_e030d5a8_1de0_41cb_b4ff_c213f0a70eb2</IRI>
+        <Literal xml:lang="en">BumbuGulaMerah</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#OWLClass_e0ee3ef8_5af0_4bf6_bdb5_f091199682c7</IRI>
+        <Literal xml:lang="en">BumbuSantan</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#OWLClass_e40319df_8d6d_446d_a5de_f43c1ec86add</IRI>
+        <Literal xml:lang="en">BahanKubis</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#OWLClass_ebc314cf_72d4_4761_bc02_ebfa7dfe502e</IRI>
+        <Literal xml:lang="en">BumbuKemiri</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#OWLClass_f5f1a116_a0ed_466f_93f6_4ce65fdacd71</IRI>
+        <Literal xml:lang="en">SotoTautoPekalongan</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#OWLClass_f7063f74_f747_47c5_a3cd_36460d140168</IRI>
+        <Literal xml:lang="en">BumbuCair</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#OWLClass_fed9e36f_ef6f_4652_a757_3f3d373d8e68</IRI>
+        <Literal xml:lang="en">BumbuBawangMerah</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#OWLClass_feef126b_684a_4404_894f_04de4f5e2b7f</IRI>
+        <Literal xml:lang="en">BumbuCabaiMerahBesar</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#OWLNamedIndividual_257cf362_19a1_4ea2_b749_b79c2e615f1c</IRI>
+        <Literal xml:lang="en">PesisirUtaraJawaTimur</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#OWLNamedIndividual_294a3b04_6d53_41c6_a780_715459bb4b7d</IRI>
+        <Literal xml:lang="en">Jambi</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#OWLNamedIndividual_3f020925_7f06_4484_95f2_16b0c1b7105e</IRI>
+        <Literal xml:lang="en">MaduraOsing</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#OWLNamedIndividual_57825451_1e35_4640_ade8_1f068d9213e9</IRI>
+        <Literal xml:lang="en">JawaTimurBagianSelatan</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#OWLNamedIndividual_ca1ed742_a160_4cc5_a41a_68748c5c972d</IRI>
+        <Literal xml:lang="en">Pekalongan</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#OWLNamedIndividual_d9da7358_f9dd_4fad_9e94_ec07163d9e8b</IRI>
+        <Literal xml:lang="en">Semarangan</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#OWLNamedIndividual_ff5cb38a_3893_443c_ac89_29e6f70c0ef4</IRI>
+        <Literal xml:lang="en">IkanTenggiri</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#OWLNamedIndividual_ff74c326_ef67_4488_8a2d_0c2e8ce9efa5</IRI>
+        <Literal xml:lang="en">Sunda</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#OWLObjectProperty_0266a9da_3344_4c0b_943e_2c30b097dd2d</IRI>
+        <Literal xml:lang="en">bumbuUntuk</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#OWLObjectProperty_2ff0768a_eaba_4c90_bd0f_b7d01c9773c0</IRI>
+        <Literal xml:lang="en">berasalDariDaerah</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#OWLObjectProperty_32227873_9448_4b75_bbcd_d652aa1fd941</IRI>
+        <Literal xml:lang="en">pakaiBumbu</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#OWLObjectProperty_371d9064_2b2a_4bb1_b2dd_c027846d8c4e</IRI>
+        <Literal xml:lang="en">pakaiBahan</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty abbreviatedIRI="rdfs:label"/>
+        <IRI>#OWLObjectProperty_f881c48f_33b9_40a1_9dfe_5ebe4d73f370</IRI>
+        <Literal xml:lang="en">bahanUntuk</Literal>
+    </AnnotationAssertion>
+</Ontology>
+
+
+
+<!-- Generated by the OWL API (version 4.5.9.2019-02-01T07:24:44Z) https://github.com/owlcs/owlapi -->
+
